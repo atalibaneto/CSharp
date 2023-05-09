@@ -1,0 +1,8 @@
+C:\Users\ataliba.acneto\Desktop\source\repos\aula6\NumerosPrimosArray\NumerosPrimosArray\obj\Debug\NumerosPrimosArray.csproj.AssemblyReference.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula6\NumerosPrimosArray\NumerosPrimosArray\obj\Debug\NumerosPrimosArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula6\NumerosPrimosArray\NumerosPrimosArray\obj\Debug\NumerosPrimosArray.csproj.CoreCompileInputs.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula6\NumerosPrimosArray\NumerosPrimosArray\bin\Debug\NumerosPrimosArray.exe.config
+C:\Users\ataliba.acneto\Desktop\source\repos\aula6\NumerosPrimosArray\NumerosPrimosArray\bin\Debug\NumerosPrimosArray.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula6\NumerosPrimosArray\NumerosPrimosArray\bin\Debug\NumerosPrimosArray.pdb
+C:\Users\ataliba.acneto\Desktop\source\repos\aula6\NumerosPrimosArray\NumerosPrimosArray\obj\Debug\NumerosPrimosArray.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula6\NumerosPrimosArray\NumerosPrimosArray\obj\Debug\NumerosPrimosArray.pdb

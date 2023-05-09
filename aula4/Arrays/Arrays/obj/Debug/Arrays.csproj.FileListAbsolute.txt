@@ -1,0 +1,8 @@
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Arrays\Arrays\obj\Debug\Arrays.pdb

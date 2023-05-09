@@ -1,0 +1,8 @@
+D:\C#\aula3\Branches and Loops\Branches and Loops\obj\Debug\Branches and Loops.csproj.AssemblyReference.cache
+D:\C#\aula3\Branches and Loops\Branches and Loops\obj\Debug\Branches and Loops.csproj.SuggestedBindingRedirects.cache
+D:\C#\aula3\Branches and Loops\Branches and Loops\obj\Debug\Branches and Loops.csproj.CoreCompileInputs.cache
+D:\C#\aula3\Branches and Loops\Branches and Loops\bin\Debug\Branches and Loops.exe.config
+D:\C#\aula3\Branches and Loops\Branches and Loops\bin\Debug\Branches and Loops.exe
+D:\C#\aula3\Branches and Loops\Branches and Loops\bin\Debug\Branches and Loops.pdb
+D:\C#\aula3\Branches and Loops\Branches and Loops\obj\Debug\Branches and Loops.exe
+D:\C#\aula3\Branches and Loops\Branches and Loops\obj\Debug\Branches and Loops.pdb

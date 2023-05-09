@@ -1,0 +1,8 @@
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Sort, Search, and Index List\Sort, Search, and Index List\bin\Debug\Sort, Search, and Index List.exe.config
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Sort, Search, and Index List\Sort, Search, and Index List\bin\Debug\Sort, Search, and Index List.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Sort, Search, and Index List\Sort, Search, and Index List\bin\Debug\Sort, Search, and Index List.pdb
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Sort, Search, and Index List\Sort, Search, and Index List\obj\Debug\Sort, Search, and Index List.csproj.AssemblyReference.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Sort, Search, and Index List\Sort, Search, and Index List\obj\Debug\Sort, Search, and Index List.csproj.SuggestedBindingRedirects.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Sort, Search, and Index List\Sort, Search, and Index List\obj\Debug\Sort, Search, and Index List.csproj.CoreCompileInputs.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Sort, Search, and Index List\Sort, Search, and Index List\obj\Debug\Sort, Search, and Index List.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Sort, Search, and Index List\Sort, Search, and Index List\obj\Debug\Sort, Search, and Index List.pdb

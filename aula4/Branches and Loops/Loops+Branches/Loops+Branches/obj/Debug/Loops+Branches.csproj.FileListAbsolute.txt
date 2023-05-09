@@ -1,0 +1,8 @@
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Branches and Loops\Loops+Branches\Loops+Branches\bin\Debug\Loops+Branches.exe.config
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Branches and Loops\Loops+Branches\Loops+Branches\bin\Debug\Loops+Branches.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Branches and Loops\Loops+Branches\Loops+Branches\bin\Debug\Loops+Branches.pdb
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Branches and Loops\Loops+Branches\Loops+Branches\obj\Debug\Loops+Branches.csproj.AssemblyReference.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Branches and Loops\Loops+Branches\Loops+Branches\obj\Debug\Loops+Branches.csproj.SuggestedBindingRedirects.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Branches and Loops\Loops+Branches\Loops+Branches\obj\Debug\Loops+Branches.csproj.CoreCompileInputs.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Branches and Loops\Loops+Branches\Loops+Branches\obj\Debug\Loops+Branches.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\Branches and Loops\Loops+Branches\Loops+Branches\obj\Debug\Loops+Branches.pdb

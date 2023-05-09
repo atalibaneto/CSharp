@@ -1,0 +1,8 @@
+C:\Users\ataliba.acneto\Desktop\source\repos\aula3\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\ataliba.acneto\Desktop\source\repos\aula3\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula3\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\ataliba.acneto\Desktop\source\repos\aula3\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula3\Loops\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula3\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula3\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula3\Loops\Loops\obj\Debug\Loops.pdb

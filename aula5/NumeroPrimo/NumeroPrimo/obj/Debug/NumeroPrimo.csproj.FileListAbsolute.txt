@@ -1,0 +1,8 @@
+C:\Users\ataliba.acneto\Desktop\source\repos\aula5\NumeroPrimo\NumeroPrimo\bin\Debug\NumeroPrimo.exe.config
+C:\Users\ataliba.acneto\Desktop\source\repos\aula5\NumeroPrimo\NumeroPrimo\bin\Debug\NumeroPrimo.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula5\NumeroPrimo\NumeroPrimo\bin\Debug\NumeroPrimo.pdb
+C:\Users\ataliba.acneto\Desktop\source\repos\aula5\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.AssemblyReference.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula5\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula5\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula5\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula5\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.pdb

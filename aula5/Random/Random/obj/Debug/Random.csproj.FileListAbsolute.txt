@@ -1,0 +1,8 @@
+D:\C#\aula5\Random\Random\bin\Debug\Random.exe.config
+D:\C#\aula5\Random\Random\bin\Debug\Random.exe
+D:\C#\aula5\Random\Random\bin\Debug\Random.pdb
+D:\C#\aula5\Random\Random\obj\Debug\Random.csproj.AssemblyReference.cache
+D:\C#\aula5\Random\Random\obj\Debug\Random.csproj.SuggestedBindingRedirects.cache
+D:\C#\aula5\Random\Random\obj\Debug\Random.csproj.CoreCompileInputs.cache
+D:\C#\aula5\Random\Random\obj\Debug\Random.exe
+D:\C#\aula5\Random\Random\obj\Debug\Random.pdb

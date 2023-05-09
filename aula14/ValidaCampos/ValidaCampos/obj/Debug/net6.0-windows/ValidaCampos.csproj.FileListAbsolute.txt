@@ -1,0 +1,17 @@
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\bin\Debug\net6.0-windows\ValidaCampos.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\bin\Debug\net6.0-windows\ValidaCampos.deps.json
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\bin\Debug\net6.0-windows\ValidaCampos.runtimeconfig.json
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\bin\Debug\net6.0-windows\ValidaCampos.dll
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\bin\Debug\net6.0-windows\ValidaCampos.pdb
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\obj\Debug\net6.0-windows\ValidaCampos.csproj.AssemblyReference.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\obj\Debug\net6.0-windows\ValidaCampos.Form1.resources
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\obj\Debug\net6.0-windows\ValidaCampos.csproj.GenerateResource.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\obj\Debug\net6.0-windows\ValidaCampos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\obj\Debug\net6.0-windows\ValidaCampos.AssemblyInfoInputs.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\obj\Debug\net6.0-windows\ValidaCampos.AssemblyInfo.cs
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\obj\Debug\net6.0-windows\ValidaCampos.csproj.CoreCompileInputs.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\obj\Debug\net6.0-windows\ValidaCampos.dll
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\obj\Debug\net6.0-windows\refint\ValidaCampos.dll
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\obj\Debug\net6.0-windows\ValidaCampos.pdb
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\obj\Debug\net6.0-windows\ValidaCampos.genruntimeconfig.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula14\ValidaCampos\ValidaCampos\obj\Debug\net6.0-windows\ref\ValidaCampos.dll

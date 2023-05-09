@@ -1,0 +1,8 @@
+D:\C#\aula1\Numbers\Numbers\bin\Debug\Numbers.exe.config
+D:\C#\aula1\Numbers\Numbers\bin\Debug\Numbers.exe
+D:\C#\aula1\Numbers\Numbers\bin\Debug\Numbers.pdb
+D:\C#\aula1\Numbers\Numbers\obj\Debug\Numbers.csproj.AssemblyReference.cache
+D:\C#\aula1\Numbers\Numbers\obj\Debug\Numbers.csproj.SuggestedBindingRedirects.cache
+D:\C#\aula1\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+D:\C#\aula1\Numbers\Numbers\obj\Debug\Numbers.exe
+D:\C#\aula1\Numbers\Numbers\obj\Debug\Numbers.pdb

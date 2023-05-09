@@ -1,0 +1,17 @@
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\bin\Debug\net6.0-windows\Caixa.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\bin\Debug\net6.0-windows\Caixa.deps.json
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\bin\Debug\net6.0-windows\Caixa.runtimeconfig.json
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\bin\Debug\net6.0-windows\Caixa.dll
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\bin\Debug\net6.0-windows\Caixa.pdb
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\obj\Debug\net6.0-windows\Caixa.csproj.AssemblyReference.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\obj\Debug\net6.0-windows\Caixa.Form1.resources
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\obj\Debug\net6.0-windows\Caixa.csproj.GenerateResource.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\obj\Debug\net6.0-windows\Caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\obj\Debug\net6.0-windows\Caixa.AssemblyInfoInputs.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\obj\Debug\net6.0-windows\Caixa.AssemblyInfo.cs
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\obj\Debug\net6.0-windows\Caixa.csproj.CoreCompileInputs.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\obj\Debug\net6.0-windows\Caixa.dll
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\obj\Debug\net6.0-windows\refint\Caixa.dll
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\obj\Debug\net6.0-windows\Caixa.pdb
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\obj\Debug\net6.0-windows\Caixa.genruntimeconfig.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula16\Caixa\Caixa\obj\Debug\net6.0-windows\ref\Caixa.dll

@@ -1,0 +1,8 @@
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\While\While\bin\Debug\While.exe.config
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\While\While\bin\Debug\While.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\While\While\bin\Debug\While.pdb
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\While\While\obj\Debug\While.csproj.AssemblyReference.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\While\While\obj\Debug\While.csproj.SuggestedBindingRedirects.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\While\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\While\While\obj\Debug\While.exe
+C:\Users\ataliba.acneto\Desktop\source\repos\aula4\While\While\obj\Debug\While.pdb
